@@ -28,13 +28,15 @@ Analysis of MS_AdventureWorks2016
 - Union
 - Case when
 ---
-#### Assessment 3: 4-7
+#### Assessment 3
+##### Lesson8
 *Subjects:*
 - Built-in Aggregate Functions
 - Built-in Functions on Number Fields
 - Built-in Functions on Strings Fields
 - Built-in Functions on dates Fields
 - Window Functions
+##### Lesson9
 - Unrelated nested queriesthat return a single value
 - Unrelated nested queriesthat return a list (one column)
 - Unrelated nested queriesthat returna table (several columns)
