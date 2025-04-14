@@ -40,4 +40,12 @@ Analysis of MS_AdventureWorks2016
 - Unrelated nested queriesthat return a single value
 - Unrelated nested queriesthat return a list (one column)
 - Unrelated nested queriesthat returna table (several columns)
+
 ---
+#### Assessment 4
+##### Lesson10
+*Subjects:*
+- Unrelated Nested Queries
+- Exists
+##### Lesson11
+- CTE (Common Table Expressions)
