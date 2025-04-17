@@ -1,6 +1,10 @@
 # MS_AdventureWorks2016
 Analysis of MS_AdventureWorks2016
 ---
+Main:Term1  
+Branch:Term2
+---
+
 
 #### Assess1_lesson2-3_a.sql
 *Subjects:*  
